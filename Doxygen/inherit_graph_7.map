@@ -1,0 +1,13 @@
+<map id="Иерархия классов. Графический вид." name="Иерархия классов. Графический вид.">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,107,179,133"/>
+<area shape="rect" id="Node000001" href="$classserializer_1_1_ad_serializer.html" title=" " alt="" coords="245,5,392,32"/>
+<area shape="poly" id="edge12_Node000000_Node000001" title=" " alt="" coords="125,96,172,68,226,42,259,30,260,35,228,46,174,73,128,100"/>
+<area shape="rect" id="Node000002" href="$classserializer_1_1_category_serializer.html" title=" " alt="" coords="227,56,410,83"/>
+<area shape="poly" id="edge13_Node000000_Node000002" title=" " alt="" coords="169,100,255,81,256,86,170,105"/>
+<area shape="rect" id="Node000003" href="$classserializer_1_1_order_serializer.html" title=" " alt="" coords="237,107,400,133"/>
+<area shape="poly" id="edge14_Node000000_Node000003" title=" " alt="" coords="194,117,236,117,236,123,194,123"/>
+<area shape="rect" id="Node000004" href="$classserializer_1_1_rating_serializer.html" title=" " alt="" coords="234,157,403,184"/>
+<area shape="poly" id="edge15_Node000000_Node000004" title=" " alt="" coords="170,135,256,154,255,159,169,140"/>
+<area shape="rect" id="Node000005" href="$classserializer_1_1_user_serializer.html" title=" " alt="" coords="239,208,398,235"/>
+<area shape="poly" id="edge16_Node000000_Node000005" title=" " alt="" coords="128,140,174,167,228,194,260,205,259,210,226,198,172,172,125,144"/>
+</map>
